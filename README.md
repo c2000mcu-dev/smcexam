@@ -30,11 +30,9 @@
 | 24 | [[F28P65x / CPU1] PMSM 센서제어 예제 (FOC, Encoder / Speed, Position Closed-Loop)](smc300exm/0024-post-24/) | 3 |
 | 25 | [[F28P65x / CPU1] BLDCM 센서제어 예제 (Hall Sensor / Speed Closed-Loop)](smc300exm/0025-post-25/) | 3 |
 
-## 이전 기록과 재사용 스킬
+## 이전 기록
 
 - [이전 결과와 보존한 공통 파일](docs/migration-smc300exm-2026-11-03.md)
-- [고도몰 SFTP → GitHub 이전 스킬](skills/godomall-sftp-to-github/SKILL.md)
 
-다른 AI는 위 스킬의 `SKILL.md`와 참고 문서를 읽어 같은 절차를 수행할 수 있습니다. Codex에서는 해당 스킬 폴더를 개인 스킬 디렉터리에 복사해 사용할 수 있습니다. 인증 정보는 포함하지 않습니다.
 
 기본예제와 활용예제는 [c2000_example 저장소](https://github.com/c2000mcu-dev/c2000_example)에 보관합니다.

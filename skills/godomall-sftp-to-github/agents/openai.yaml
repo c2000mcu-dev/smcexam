@@ -1,4 +1,0 @@
-interface:
-  display_name: "고도몰 자료실 GitHub 이전"
-  short_description: "고도몰 게시물의 자료를 백업하고 GitHub로 이전한 뒤 링크와 SFTP를 정리"
-  default_prompt: "Use $godomall-sftp-to-github to migrate the authorized Godomall board files to GitHub, verify each download, update article links, and remove only unused SFTP originals."
