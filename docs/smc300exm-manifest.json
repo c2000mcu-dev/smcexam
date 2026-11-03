@@ -1,0 +1,649 @@
+{
+  "board": "smc300exm",
+  "date": "2026-11-03",
+  "posts": [
+    {
+      "number": 0,
+      "sno": 1,
+      "directory": "smc300exm/0000-post-1",
+      "commit": "433e2f5765c594765433eaf33ef990cdb795c033",
+      "files": []
+    },
+    {
+      "number": 2,
+      "sno": 2,
+      "directory": "smc300exm/0002-post-2",
+      "commit": "a94e84d17aecf5889caa87e957f9803bfc81416f",
+      "files": [
+        {
+          "filename": "SMC300_Example_11_BLDCM_Sensored_Control_F28377D.zip",
+          "bytes": 2124231,
+          "sha256": "20f274fe04214f32e56abfc852287742e331d3acb51e2f670cb5ebcba751207d",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0002-post-2/SMC300_Example_11_BLDCM_Sensored_Control_F28377D.zip"
+        },
+        {
+          "filename": "BLDCM_Sensored_Control_F28377D_CCSV12_DOC_V110.pdf",
+          "bytes": 3890981,
+          "sha256": "d5e2d4c33560febcd89e683b204b36ccef726a2814f1ca8319808954fac9042c",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0002-post-2/BLDCM_Sensored_Control_F28377D_CCSV12_DOC_V110.pdf"
+        },
+        {
+          "filename": "SMC300_Example_Wiring_Guide_11_BLDCM_Sensored_Control.png",
+          "bytes": 845967,
+          "sha256": "63ef123f61e85e06d0e2f1c09001d9f1c171a23dd302916a0776eac943d9f144",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0002-post-2/SMC300_Example_Wiring_Guide_11_BLDCM_Sensored_Control.png"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "sno": 3,
+      "directory": "smc300exm/0003-post-3",
+      "commit": "48264a598e0cc0e61a5069d3652e2b278195ba94",
+      "files": [
+        {
+          "filename": "SMC300_Example_11_PMSM_Sensored_Control_F28377D.zip",
+          "bytes": 2124826,
+          "sha256": "69e9ebdd629b3cb339a79d909cb9bde62cc10bddc5d895598a0bcff77002c862",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0003-post-3/SMC300_Example_11_PMSM_Sensored_Control_F28377D.zip"
+        },
+        {
+          "filename": "PMSM_Sensored_Control_F28377D_CCSV12_DOC_V110.pdf",
+          "bytes": 3771252,
+          "sha256": "6133dbfd0b2db3219a3d3d563ba5729c989bf07994c095789a72bc839a88ee0f",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0003-post-3/PMSM_Sensored_Control_F28377D_CCSV12_DOC_V110.pdf"
+        },
+        {
+          "filename": "SMC300_Example_Wiring_Guide_11_PMSM_Sensored_Control.png",
+          "bytes": 851309,
+          "sha256": "c9fcc60753250210ea2498926573577a4da75f5a26c4e4efad32d84585a9b904",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0003-post-3/SMC300_Example_Wiring_Guide_11_PMSM_Sensored_Control.png"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "sno": 4,
+      "directory": "smc300exm/0004-post-4",
+      "commit": "565108f655041b5fa659bb225f65159409d26d9a",
+      "files": [
+        {
+          "filename": "SMC300_Example_3_Serial_EEPROM_M95M04_F28377D.zip",
+          "bytes": 2446435,
+          "sha256": "559cf3e6fef3077167698376a615a88dc9050cdbca39033d34198c06124586cd",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0004-post-4/SMC300_Example_3_Serial_EEPROM_M95M04_F28377D.zip"
+        },
+        {
+          "filename": "SMC300_Example_Wiring_Guide_3_Serial_EEPROM_M95M04.png",
+          "bytes": 731909,
+          "sha256": "744381939c0c4d4b6eecb2821d5c53db6f008e5fc8603745a05272ff7dc30c29",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0004-post-4/SMC300_Example_Wiring_Guide_3_Serial_EEPROM_M95M04.png"
+        },
+        {
+          "filename": "Example_Workspace_Path.png",
+          "bytes": 12595,
+          "sha256": "242b94aebf47dc97d80d3d0ae2a9c82253331d04c1d2239ca9a2863f308f2f5a",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0004-post-4/Example_Workspace_Path.png"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "sno": 5,
+      "directory": "smc300exm/0005-post-5",
+      "commit": "980abcd1625e6e7a0599abe20c5c79946dedbd13",
+      "files": [
+        {
+          "filename": "SMC300_Example_3_Serial_FLASH_M25P40_F28377D.zip",
+          "bytes": 2493317,
+          "sha256": "74c937a4df0766f4026418c1947d7a301ae5d20834598693afd4fbe16795894f",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0005-post-5/SMC300_Example_3_Serial_FLASH_M25P40_F28377D.zip"
+        },
+        {
+          "filename": "SMC300_Example_Wiring_Guide_3_Serial_FLASH_M25P40.png",
+          "bytes": 731857,
+          "sha256": "95e3c2e886ee1feb9bd31b9f8d847419b94ce977f216adce3955fbd6f95bdcea",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0005-post-5/SMC300_Example_Wiring_Guide_3_Serial_FLASH_M25P40.png"
+        },
+        {
+          "filename": "Example_Workspace_Path.png",
+          "bytes": 12595,
+          "sha256": "242b94aebf47dc97d80d3d0ae2a9c82253331d04c1d2239ca9a2863f308f2f5a",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0005-post-5/Example_Workspace_Path.png"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "sno": 6,
+      "directory": "smc300exm/0006-post-6",
+      "commit": "32648999ab2a35f2bd1f1d6d4b63bbe572022e26",
+      "files": [
+        {
+          "filename": "SMC300_Example_4_GP_Toggle_Switch_8Ch_F28377D.zip",
+          "bytes": 2054818,
+          "sha256": "8295b194afff6318521706a2719fd29ddeeb0bff64c61edf801fe2b95715d05a",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0006-post-6/SMC300_Example_4_GP_Toggle_Switch_8Ch_F28377D.zip"
+        },
+        {
+          "filename": "SMC300_Example_Wiring_Guide_4_GP_Toggle_Switch_8Ch.png",
+          "bytes": 714212,
+          "sha256": "6f813ea96ed500e05603a297f6399a3140aebdfae3c15e2d8d67994e9bd12058",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0006-post-6/SMC300_Example_Wiring_Guide_4_GP_Toggle_Switch_8Ch.png"
+        },
+        {
+          "filename": "Example_Workspace_Path.png",
+          "bytes": 12595,
+          "sha256": "242b94aebf47dc97d80d3d0ae2a9c82253331d04c1d2239ca9a2863f308f2f5a",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0006-post-6/Example_Workspace_Path.png"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "sno": 7,
+      "directory": "smc300exm/0007-post-7",
+      "commit": "154cb9929c0e454cae514e57ac22e5d33a8ed823",
+      "files": [
+        {
+          "filename": "SMC300_Example_5_GP_Tactile_Switch_4Ch_F28377D.zip",
+          "bytes": 2055419,
+          "sha256": "316643e2eda4b02919015a46ab7126281fec6b08f15d5505110ad49846536bcf",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0007-post-7/SMC300_Example_5_GP_Tactile_Switch_4Ch_F28377D.zip"
+        },
+        {
+          "filename": "SMC300_Example_Wiring_Guide_5_GP_Tactile_Switch_4Ch.png",
+          "bytes": 739448,
+          "sha256": "986268d9eda2f25c7b99de0dae59d77b54439fd743f4dc2801e9126a0da95e54",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0007-post-7/SMC300_Example_Wiring_Guide_5_GP_Tactile_Switch_4Ch.png"
+        },
+        {
+          "filename": "Example_Workspace_Path.png",
+          "bytes": 12595,
+          "sha256": "242b94aebf47dc97d80d3d0ae2a9c82253331d04c1d2239ca9a2863f308f2f5a",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0007-post-7/Example_Workspace_Path.png"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "sno": 8,
+      "directory": "smc300exm/0008-post-8",
+      "commit": "dccb92456dcdacb92704c0c7e7c0e6b5b0bbd8d7",
+      "files": [
+        {
+          "filename": "SMC300_Example_6_GP_LED_16Ch_F28377D.zip",
+          "bytes": 2054447,
+          "sha256": "6e5111f1d22a6a1fa49400757ec108a03aeb616df3e35e96224f1b5bb127d5fb",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0008-post-8/SMC300_Example_6_GP_LED_16Ch_F28377D.zip"
+        },
+        {
+          "filename": "SMC300_Example_Wiring_Guide_6_GP_LED_16Ch.png",
+          "bytes": 755025,
+          "sha256": "f664a6a224761536f914bd4e88aca51c7b7455cfccf0ff12e4614a2c5774fdf7",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0008-post-8/SMC300_Example_Wiring_Guide_6_GP_LED_16Ch.png"
+        },
+        {
+          "filename": "Example_Workspace_Path.png",
+          "bytes": 12595,
+          "sha256": "242b94aebf47dc97d80d3d0ae2a9c82253331d04c1d2239ca9a2863f308f2f5a",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0008-post-8/Example_Workspace_Path.png"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "sno": 9,
+      "directory": "smc300exm/0009-post-9",
+      "commit": "ef4131d9ee4e962f6a037ccf96b35a7ca09997ac",
+      "files": [
+        {
+          "filename": "SMC300_Example_7_DCAN_External_Loopback_F28377D.zip",
+          "bytes": 2056067,
+          "sha256": "c915e991518f932439ab459a1e1cbce6b1aadee797ba1a4a197a971097c583cc",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0009-post-9/SMC300_Example_7_DCAN_External_Loopback_F28377D.zip"
+        },
+        {
+          "filename": "SMC300_Example_Wiring_Guide_7_DCAN_External_Loopback.png",
+          "bytes": 732802,
+          "sha256": "6979e8d19e6032e1d5c438b394aa539695ee0308b8db3652d2df1fae2a8752c6",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0009-post-9/SMC300_Example_Wiring_Guide_7_DCAN_External_Loopback.png"
+        },
+        {
+          "filename": "Example_Workspace_Path.png",
+          "bytes": 12595,
+          "sha256": "242b94aebf47dc97d80d3d0ae2a9c82253331d04c1d2239ca9a2863f308f2f5a",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0009-post-9/Example_Workspace_Path.png"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "sno": 10,
+      "directory": "smc300exm/0010-post-10",
+      "commit": "a2d0668e0a807e83a7a00aaa8cef245e2c4fd412",
+      "files": [
+        {
+          "filename": "SMC300_Example_8_RS485_External_Loopback_F28377D.zip",
+          "bytes": 2055815,
+          "sha256": "a3dd8fa6bd46ab2f7b02f0d209275583c147410934a54cc88783f395e544a473",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0010-post-10/SMC300_Example_8_RS485_External_Loopback_F28377D.zip"
+        },
+        {
+          "filename": "SMC300_Example_Switch_Setting_Guide_8_RS485_External_Loopback.png",
+          "bytes": 1339559,
+          "sha256": "36484518fa9793349dcbd1e61ee469da5d48a894b5023d45c0a764df100d3aac",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0010-post-10/SMC300_Example_Switch_Setting_Guide_8_RS485_External_Loopback.png"
+        },
+        {
+          "filename": "SMC300_Example_Wiring_Guide_8_RS485_External_Loopback.png",
+          "bytes": 750496,
+          "sha256": "289b173fd26e4c57d40361d7c8000271f0ce02f7444d75f3d881ce5b8c3f7a15",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0010-post-10/SMC300_Example_Wiring_Guide_8_RS485_External_Loopback.png"
+        },
+        {
+          "filename": "Example_Workspace_Path.png",
+          "bytes": 12595,
+          "sha256": "242b94aebf47dc97d80d3d0ae2a9c82253331d04c1d2239ca9a2863f308f2f5a",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0010-post-10/Example_Workspace_Path.png"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "sno": 11,
+      "directory": "smc300exm/0011-post-11",
+      "commit": "f0b5e66afa7031b7fb90737f59254027e367208b",
+      "files": [
+        {
+          "filename": "SMC300_Example_9_RS232_External_Loopback_F28377D.zip",
+          "bytes": 2055835,
+          "sha256": "a0a3d3166adb7c20a028557595bdfab2af877d47e3a82d828cd0add87f3aa97e",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0011-post-11/SMC300_Example_9_RS232_External_Loopback_F28377D.zip"
+        },
+        {
+          "filename": "SMC300_Example_Wiring_Guide_9_RS232_External_Loopback.png",
+          "bytes": 739661,
+          "sha256": "16860477dea668cceb749ad85d49d1d95a3113018e8c0580a50ebf99ca3302bb",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0011-post-11/SMC300_Example_Wiring_Guide_9_RS232_External_Loopback.png"
+        },
+        {
+          "filename": "Example_Workspace_Path.png",
+          "bytes": 12595,
+          "sha256": "242b94aebf47dc97d80d3d0ae2a9c82253331d04c1d2239ca9a2863f308f2f5a",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0011-post-11/Example_Workspace_Path.png"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "sno": 12,
+      "directory": "smc300exm/0012-post-12",
+      "commit": "6a2299b2ae10aeeb1ef797436fc92b1e8f2ca1a9",
+      "files": [
+        {
+          "filename": "SMC300_Example_11_PMSM_Sensored_Control_F28388D.zip",
+          "bytes": 2268937,
+          "sha256": "bf8a280abbc5c5265da96b72f18034e92dea35e435bac1fab47f3c4b42fc48eb",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0012-post-12/SMC300_Example_11_PMSM_Sensored_Control_F28388D.zip"
+        },
+        {
+          "filename": "PMSM_Sensored_Control_F28388D_CCSV12_DOC_V110.pdf",
+          "bytes": 3851707,
+          "sha256": "53633e0a8487b6d7a2af02408b724c1ea8aad9bafa1ff760f6b0a6e409825b87",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0012-post-12/PMSM_Sensored_Control_F28388D_CCSV12_DOC_V110.pdf"
+        },
+        {
+          "filename": "SMC300_Example_Wiring_Guide_11_PMSM_Sensored_Control_F28388D.png",
+          "bytes": 838738,
+          "sha256": "e77fc4bfd30aa92a2a9c6270f8e6c15ff460b4e41c7cbf1a9eb194d676e243dd",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0012-post-12/SMC300_Example_Wiring_Guide_11_PMSM_Sensored_Control_F28388D.png"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "sno": 13,
+      "directory": "smc300exm/0013-post-13",
+      "commit": "07b394c6235777578cd58a9104084ac5255f666f",
+      "files": [
+        {
+          "filename": "SMC300_Example_11_BLDCM_Sensored_Control_F28388D.zip",
+          "bytes": 2268696,
+          "sha256": "3be0fa7c5f3ae4983599976eb06a2f674361cbf6147ab59298700b03812187cb",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0013-post-13/SMC300_Example_11_BLDCM_Sensored_Control_F28388D.zip"
+        },
+        {
+          "filename": "BLDCM_Sensored_Control_F28388D_CCSV12_DOC_V110.pdf",
+          "bytes": 4079837,
+          "sha256": "27ad96d745e58fcad6a99914b9e6011fce893fe5dd33c8fc76ca407d1e96b3df",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0013-post-13/BLDCM_Sensored_Control_F28388D_CCSV12_DOC_V110.pdf"
+        },
+        {
+          "filename": "SMC300_Example_Wiring_Guide_11_BLDCM_Sensored_Control_F28388D.png",
+          "bytes": 833919,
+          "sha256": "38cac68ab6aa8a9e059b9f3d4a8ce21f7e65edd7a2d4256f6d0cc6db5bfacc8a",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0013-post-13/SMC300_Example_Wiring_Guide_11_BLDCM_Sensored_Control_F28388D.png"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "sno": 14,
+      "directory": "smc300exm/0014-post-14",
+      "commit": "e1615eb03c25600fcf5b7c8f490ddad42e9f8fe1",
+      "files": [
+        {
+          "filename": "SMC300_Example_3_Serial_EEPROM_M95M04_F28388D.zip",
+          "bytes": 2562307,
+          "sha256": "2dfd39895268e42ce1f952bf66f865f00f4ddcc400ab40c7c60d2b77a4646ede",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0014-post-14/SMC300_Example_3_Serial_EEPROM_M95M04_F28388D.zip"
+        },
+        {
+          "filename": "SMC300_Example_Wiring_Guide_3_Serial_EEPROM_M95M04_F28388D.png",
+          "bytes": 719162,
+          "sha256": "061819f3fdc42c2c7569503774b44050c09c12f004f196c099f10dcf3a696cad",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0014-post-14/SMC300_Example_Wiring_Guide_3_Serial_EEPROM_M95M04_F28388D.png"
+        },
+        {
+          "filename": "Example_Workspace_Path_F28388D.png",
+          "bytes": 12628,
+          "sha256": "0adf45c9ab2614309806e656a39420a6a1db10848905010f4b979a6d2b09404c",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0014-post-14/Example_Workspace_Path_F28388D.png"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "sno": 15,
+      "directory": "smc300exm/0015-post-15",
+      "commit": "5da55c4d36725aff62755b5590b0f55611a73e92",
+      "files": [
+        {
+          "filename": "SMC300_Example_3_Serial_FLASH_M25P40_F28388D.zip",
+          "bytes": 2609087,
+          "sha256": "a0322b2ce7f1c95052e9b1a4b934ca8a2f703777b4ab1597189a523c62ad84f6",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0015-post-15/SMC300_Example_3_Serial_FLASH_M25P40_F28388D.zip"
+        },
+        {
+          "filename": "SMC300_Example_Wiring_Guide_3_Serial_FLASH_M25P40_F28388D.png",
+          "bytes": 719115,
+          "sha256": "4380d1f40efd8ae3082795d680a84c5be909cce2d1f63be1df50a967a84f2f4d",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0015-post-15/SMC300_Example_Wiring_Guide_3_Serial_FLASH_M25P40_F28388D.png"
+        },
+        {
+          "filename": "Example_Workspace_Path_F28388D.png",
+          "bytes": 12628,
+          "sha256": "0adf45c9ab2614309806e656a39420a6a1db10848905010f4b979a6d2b09404c",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0015-post-15/Example_Workspace_Path_F28388D.png"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "sno": 16,
+      "directory": "smc300exm/0016-post-16",
+      "commit": "7add9d9c2b1566d55d938f6209503dcf067fda03",
+      "files": [
+        {
+          "filename": "SMC300_Example_4_GP_Toggle_Switch_8Ch_F28388D.zip",
+          "bytes": 2170476,
+          "sha256": "9c2dcd584602315c6d7d2bb80dcf5204472f6cea9793b8e503267302400e3439",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0016-post-16/SMC300_Example_4_GP_Toggle_Switch_8Ch_F28388D.zip"
+        },
+        {
+          "filename": "SMC300_Example_Wiring_Guide_4_GP_Toggle_Switch_8Ch_F28388D.png",
+          "bytes": 702556,
+          "sha256": "975c7533275befe59eaa4debca9297235222c2435d0f677903223fe282435e72",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0016-post-16/SMC300_Example_Wiring_Guide_4_GP_Toggle_Switch_8Ch_F28388D.png"
+        },
+        {
+          "filename": "Example_Workspace_Path_F28388D.png",
+          "bytes": 12628,
+          "sha256": "0adf45c9ab2614309806e656a39420a6a1db10848905010f4b979a6d2b09404c",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0016-post-16/Example_Workspace_Path_F28388D.png"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "sno": 17,
+      "directory": "smc300exm/0017-post-17",
+      "commit": "b97e7b9a25105c43a04590c817b19634fee0596d",
+      "files": [
+        {
+          "filename": "SMC300_Example_5_GP_Tactile_Switch_4Ch_F28388D.zip",
+          "bytes": 2171181,
+          "sha256": "1e213dd5e7abebebb781d48a1cae7141f6c28d032dddca8d9248444ab0a098e8",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0017-post-17/SMC300_Example_5_GP_Tactile_Switch_4Ch_F28388D.zip"
+        },
+        {
+          "filename": "SMC300_Example_Wiring_Guide_5_GP_Tactile_Switch_4Ch_F28388D.png",
+          "bytes": 727579,
+          "sha256": "236cef404fd19d20422c9a9a90cfd0abcba8a96aa1bf71acfbdb70c547900f38",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0017-post-17/SMC300_Example_Wiring_Guide_5_GP_Tactile_Switch_4Ch_F28388D.png"
+        },
+        {
+          "filename": "Example_Workspace_Path_F28388D.png",
+          "bytes": 12628,
+          "sha256": "0adf45c9ab2614309806e656a39420a6a1db10848905010f4b979a6d2b09404c",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0017-post-17/Example_Workspace_Path_F28388D.png"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "sno": 18,
+      "directory": "smc300exm/0018-post-18",
+      "commit": "290817156b7a2a6db09880fc5b0684d9e5e226d0",
+      "files": [
+        {
+          "filename": "SMC300_Example_6_GP_LED_16Ch_F28388D.zip",
+          "bytes": 2170525,
+          "sha256": "3a8a5d45b1f796e16ef7f9b4d4b260d97324112d4c862d024cdede6d7d353b91",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0018-post-18/SMC300_Example_6_GP_LED_16Ch_F28388D.zip"
+        },
+        {
+          "filename": "SMC300_Example_Wiring_Guide_6_GP_LED_16Ch_F28388D.png",
+          "bytes": 743082,
+          "sha256": "d39af0ad34915829508c7347729f4caaaa33d35ec0850dc0baab8af7ac7787b7",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0018-post-18/SMC300_Example_Wiring_Guide_6_GP_LED_16Ch_F28388D.png"
+        },
+        {
+          "filename": "Example_Workspace_Path_F28388D.png",
+          "bytes": 12628,
+          "sha256": "0adf45c9ab2614309806e656a39420a6a1db10848905010f4b979a6d2b09404c",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0018-post-18/Example_Workspace_Path_F28388D.png"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "sno": 19,
+      "directory": "smc300exm/0019-post-19",
+      "commit": "7ee0faad444aeb6f312c8c101e23ccb1fb281256",
+      "files": [
+        {
+          "filename": "SMC300_Example_7_DCAN_External_Loopback_F28388D.zip",
+          "bytes": 2172022,
+          "sha256": "a880bcb135846928b24e1bfba34d2659e2855dd1ce1e61ea1f4c08d70c363fb2",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0019-post-19/SMC300_Example_7_DCAN_External_Loopback_F28388D.zip"
+        },
+        {
+          "filename": "SMC300_Example_Wiring_Guide_7_DCAN_External_Loopback_F28388D.png",
+          "bytes": 722005,
+          "sha256": "caa8b3df9d4c752cd71bc29918f4733be15d5d267050ed3f88b771d84ebc4647",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0019-post-19/SMC300_Example_Wiring_Guide_7_DCAN_External_Loopback_F28388D.png"
+        },
+        {
+          "filename": "Example_Workspace_Path_F28388D.png",
+          "bytes": 12628,
+          "sha256": "0adf45c9ab2614309806e656a39420a6a1db10848905010f4b979a6d2b09404c",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0019-post-19/Example_Workspace_Path_F28388D.png"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "sno": 20,
+      "directory": "smc300exm/0020-post-20",
+      "commit": "b4fd746d7690875069af7a542d1fedbb9e29279b",
+      "files": [
+        {
+          "filename": "SMC300_Example_8_RS485_External_Loopback_F28388D.zip",
+          "bytes": 2172103,
+          "sha256": "0821902c619656fd3fb627e9fdf146d8e0865e0b742f4e53ce39a6ba141fe198",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0020-post-20/SMC300_Example_8_RS485_External_Loopback_F28388D.zip"
+        },
+        {
+          "filename": "SMC300_Example_Switch_Setting_Guide_8_RS485_External_Loopback.png",
+          "bytes": 1339559,
+          "sha256": "36484518fa9793349dcbd1e61ee469da5d48a894b5023d45c0a764df100d3aac",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0020-post-20/SMC300_Example_Switch_Setting_Guide_8_RS485_External_Loopback.png"
+        },
+        {
+          "filename": "SMC300_Example_Wiring_Guide_8_RS485_External_Loopback_F28388D.png",
+          "bytes": 738869,
+          "sha256": "75c523fd2cb8d4f17faa38a2b2d61d4560da16084a8eae73a0fd4bf682920503",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0020-post-20/SMC300_Example_Wiring_Guide_8_RS485_External_Loopback_F28388D.png"
+        },
+        {
+          "filename": "Example_Workspace_Path_F28388D.png",
+          "bytes": 12628,
+          "sha256": "0adf45c9ab2614309806e656a39420a6a1db10848905010f4b979a6d2b09404c",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0020-post-20/Example_Workspace_Path_F28388D.png"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "sno": 21,
+      "directory": "smc300exm/0021-post-21",
+      "commit": "b9adc05aea125dce6fffa5a0e391ce35e19c91d3",
+      "files": [
+        {
+          "filename": "SMC300_Example_9_RS232_External_Loopback_F28388D.zip",
+          "bytes": 2172282,
+          "sha256": "98dbd92c0135eb67c6b00455e3fa5f902cffc8e015fcb03a59686ca4feb9b7ff",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0021-post-21/SMC300_Example_9_RS232_External_Loopback_F28388D.zip"
+        },
+        {
+          "filename": "SMC300_Example_Wiring_Guide_9_RS232_External_Loopback_F28388D.png",
+          "bytes": 728926,
+          "sha256": "e4b169fe31eb89e48613ed16a97c09b5b72e8793b3ebc18506c2dd4af743f104",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0021-post-21/SMC300_Example_Wiring_Guide_9_RS232_External_Loopback_F28388D.png"
+        },
+        {
+          "filename": "Example_Workspace_Path_F28388D.png",
+          "bytes": 12628,
+          "sha256": "0adf45c9ab2614309806e656a39420a6a1db10848905010f4b979a6d2b09404c",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0021-post-21/Example_Workspace_Path_F28388D.png"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "sno": 22,
+      "directory": "smc300exm/0022-post-22",
+      "commit": "981aafbc6cc0b6b99f5bdca931641c6d5cd00e49",
+      "files": [
+        {
+          "filename": "SMC300_Example_11_PMSM_Sensored_Control_F28P55x.zip",
+          "bytes": 2144021,
+          "sha256": "0528d86f9892a00b8b03fda93bafd4a2cdab974b027854e7d308344aeb328580",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0022-post-22/SMC300_Example_11_PMSM_Sensored_Control_F28P55x.zip"
+        },
+        {
+          "filename": "PMSM_Sensored_Control_F28P55x_CCSV12_DOC_V120.pdf",
+          "bytes": 3608797,
+          "sha256": "4c3dd2176dbe4a8264ebdc46ec106611db04c1da43f50f82a488ed19aeae8c57",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0022-post-22/PMSM_Sensored_Control_F28P55x_CCSV12_DOC_V120.pdf"
+        },
+        {
+          "filename": "SMC300_Example_Wiring_Guide_11_PMSM_Sensored_Control_F28P559SJ9-Q1.png",
+          "bytes": 910107,
+          "sha256": "362341c685fa1bb4557ff3f3020c87569cde24f9c033a92eec98b850a3b2f36b",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0022-post-22/SMC300_Example_Wiring_Guide_11_PMSM_Sensored_Control_F28P559SJ9-Q1.png"
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "sno": 23,
+      "directory": "smc300exm/0023-post-23",
+      "commit": "61e6181d3bafdd3438e033efde16d3575fa21752",
+      "files": [
+        {
+          "filename": "SMC300_Example_11_BLDCM_Sensored_Control_F28P55x.zip",
+          "bytes": 2143021,
+          "sha256": "9342743dfd730fd2a0f213d186cdff04ab82186f9df1d1e988b59c22696766a0",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0023-post-23/SMC300_Example_11_BLDCM_Sensored_Control_F28P55x.zip"
+        },
+        {
+          "filename": "BLDCM_Sensored_Control_F28P55x_CCSV12_DOC_V120.pdf",
+          "bytes": 3838627,
+          "sha256": "12e896eff78f8f83dad88ccd81aa387c46ad33ffa94ae746dc7de518d2272f8e",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0023-post-23/BLDCM_Sensored_Control_F28P55x_CCSV12_DOC_V120.pdf"
+        },
+        {
+          "filename": "SMC300_Example_Wiring_Guide_11_BLDCM_Sensored_Control_F28P559SJ9-Q1.png",
+          "bytes": 903558,
+          "sha256": "163d43b3424d33197f84960d34ae4a33f080b8e2e4c984aa852e34f9d6ef31c1",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0023-post-23/SMC300_Example_Wiring_Guide_11_BLDCM_Sensored_Control_F28P559SJ9-Q1.png"
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "sno": 24,
+      "directory": "smc300exm/0024-post-24",
+      "commit": "02e59ff83557f16ad4da8670d0363ccfdcd9a6ed",
+      "files": [
+        {
+          "filename": "SMC300_Example_11_PMSM_Sensored_Control_F28P65x.zip",
+          "bytes": 2358189,
+          "sha256": "a47a59c8fe800b29d82be50e1e3f877d703f4fcbd109e491029dc38b510514f9",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0024-post-24/SMC300_Example_11_PMSM_Sensored_Control_F28P65x.zip"
+        },
+        {
+          "filename": "PMSM_Sensored_Control_F28P65x_CCSV12_DOC_V121.pdf",
+          "bytes": 3608016,
+          "sha256": "f59c629becd159e1f9a118e80fa77f0de76c9339162b05959641df7d5ce08288",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0024-post-24/PMSM_Sensored_Control_F28P65x_CCSV12_DOC_V121.pdf"
+        },
+        {
+          "filename": "SMC300_Example_Wiring_Guide_11_PMSM_Sensored_Control_F28P65x.png",
+          "bytes": 928360,
+          "sha256": "4bd14a9dc6c2fd6c5ae3184822ef8611ba562d9b7bb8097830ab1900115ce295",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0024-post-24/SMC300_Example_Wiring_Guide_11_PMSM_Sensored_Control_F28P65x.png"
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "sno": 25,
+      "directory": "smc300exm/0025-post-25",
+      "commit": "de1f07ad7df24c0e15c67d3796dd461b30227b31",
+      "files": [
+        {
+          "filename": "SMC300_Example_11_BLDCM_Sensored_Control_F28P65x.zip",
+          "bytes": 2357458,
+          "sha256": "79f42e8e79f1ad3313f2caa6d1e6651091f7bc6c0998929337c5ece5c509153c",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0025-post-25/SMC300_Example_11_BLDCM_Sensored_Control_F28P65x.zip"
+        },
+        {
+          "filename": "BLDCM_Sensored_Control_F28P65x_CCSV12_DOC_V121.pdf",
+          "bytes": 3840308,
+          "sha256": "12a7328b0b9821d18f6646cc96ce5c6b1c82a77d702c85b8e866d281bf6f8fad",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0025-post-25/BLDCM_Sensored_Control_F28P65x_CCSV12_DOC_V121.pdf"
+        },
+        {
+          "filename": "SMC300_Example_Wiring_Guide_11_BLDCM_Sensored_Control_F28P65x.png",
+          "bytes": 922206,
+          "sha256": "f7529c367a4dc57bee6e842910a7881e2f9eaf3f5f7c2e60eb296d62f7873a0b",
+          "github": "https://github.com/c2000mcu-dev/smcexam/raw/refs/heads/main/smc300exm/0025-post-25/SMC300_Example_Wiring_Guide_11_BLDCM_Sensored_Control_F28P65x.png"
+        }
+      ]
+    }
+  ]
+}
