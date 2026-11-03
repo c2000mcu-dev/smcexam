@@ -1,8 +1,8 @@
 # [F2838x / CPU1] RS-485 통신 테스트 예제
 
-[원본 게시물](https://www.tms320f28x.co.kr/board/view.php?bdId=smc300exm&sno=20) · SMC300 개발보드 예제 20번 · 이전일 2026-11-03
+[관련 게시물](https://www.tms320f28x.co.kr/board/view.php?bdId=smc300exm&sno=20) · SMC300 개발보드 예제 20번
 
-SFTP 원본 파일을 수정 없이 보관했습니다. 설치 프로그램은 실행하지 않았습니다. 사용 조건은 원본 배포 자료를 따릅니다.
+사용 조건은 배포 자료에 포함된 내용을 따릅니다.
 
 | 파일 | bytes | SHA-256 |
 | --- | ---: | --- |

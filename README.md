@@ -1,6 +1,6 @@
 # SMC300 개발보드 예제
 
-싱크웍스 `smc300exm` 게시판의 예제와 자료를 보관합니다. 원본 파일을 수정하지 않았으며 설치 프로그램은 실행하지 않았습니다. 사용 조건은 각 원본 배포 자료를 따릅니다.
+싱크웍스 `smc300exm` 게시판의 예제와 자료를 보관합니다. 원본 파일을 수정하지 않았으며 설치 프로그램은 실행하지 않았습니다. 사용 조건은 각 배포 자료를 따릅니다.
 
 | 번호 | 자료 | 파일 수 |
 | ---: | --- | ---: |
@@ -30,9 +30,9 @@
 | 24 | [[F28P65x / CPU1] PMSM 센서제어 예제 (FOC, Encoder / Speed, Position Closed-Loop)](smc300exm/0024-post-24/) | 3 |
 | 25 | [[F28P65x / CPU1] BLDCM 센서제어 예제 (Hall Sensor / Speed Closed-Loop)](smc300exm/0025-post-25/) | 3 |
 
-## 이전 기록
+## 자료 안내
 
-- [이전 결과와 보존한 공통 파일](docs/migration-smc300exm-2026-11-03.md)
+- [예제 자료 안내](docs/migration-smc300exm-2026-11-03.md)
 
 
 기본예제와 활용예제는 [c2000_example 저장소](https://github.com/c2000mcu-dev/c2000_example)에 보관합니다.
